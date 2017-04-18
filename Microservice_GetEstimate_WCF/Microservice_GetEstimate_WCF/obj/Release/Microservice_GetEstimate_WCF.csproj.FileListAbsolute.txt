@@ -1,0 +1,5 @@
+C:\Mani-Projects\DOTNET\Microservice_GetEstimate_WCF\Microservice_GetEstimate_WCF\bin\Microservice_GetEstimate_WCF.dll.config
+C:\Mani-Projects\DOTNET\Microservice_GetEstimate_WCF\Microservice_GetEstimate_WCF\bin\Microservice_GetEstimate_WCF.dll
+C:\Mani-Projects\DOTNET\Microservice_GetEstimate_WCF\Microservice_GetEstimate_WCF\bin\Microservice_GetEstimate_WCF.pdb
+C:\Mani-Projects\DOTNET\Microservice_GetEstimate_WCF\Microservice_GetEstimate_WCF\obj\Release\Microservice_GetEstimate_WCF.dll
+C:\Mani-Projects\DOTNET\Microservice_GetEstimate_WCF\Microservice_GetEstimate_WCF\obj\Release\Microservice_GetEstimate_WCF.pdb
